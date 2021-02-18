@@ -338,3 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assets/Plugins/FMOD
+/Assets/Gizmos/FMOD
+/Assets/Editor Default Resources/FMOD
+/Build
+/Temp
+/Logs
+/Library
